@@ -1,5 +1,5 @@
 import counter
-impport pytest
+import pytest
 
 def test_counter_inc():
   assert counter.inc(4) == 5
