@@ -1,4 +1,5 @@
 # counter.py
+# Fixed indentation
 
 def inc(x):
   """
